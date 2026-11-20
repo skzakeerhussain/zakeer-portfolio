@@ -1,0 +1,33 @@
+ZAKEER
+Frontend Developer | Web Developer | Creative Coder
+
+PROFILE
+Frontend developer focused on creating thoughtful, responsive, accessible web experiences. Enjoys turning ideas into clear interfaces with HTML, CSS, and JavaScript.
+
+SKILLS
+HTML5 · CSS3 · JavaScript · Python · Git · GitHub · VS Code · Figma
+Responsive design · UI/UX · Accessibility · Problem solving
+
+EXPERIENCE
+Frontend Developer — Independent Practice | 2024–Present
+Build personal projects and strengthen frontend fundamentals through hands-on practice.
+
+Web Development Studies | 2023–2024
+Developed a foundation in HTML, CSS, JavaScript, and responsive design.
+
+EDUCATION
+Computer Science | 2021–2024
+Replace this sample entry with your school, qualification, and dates.
+
+PROJECTS
+Orbit Analytics — Data-first dashboard interface concept.
+Forme Studio — Editorial e-commerce storefront concept.
+Daylight Forecast — Friendly weather application concept.
+
+CONTACT
+Email: hello@example.com
+GitHub: https://github.com/
+LinkedIn: https://www.linkedin.com/
+
+CUSTOMIZE
+Update this sample resume with your real contact details, experience, education, and links before sharing.
